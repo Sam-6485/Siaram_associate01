@@ -1,0 +1,67 @@
+uploads = []
+
+[[generated]]
+id = "kMQPp0A-uBQklXrL_pU6_"
+uri = "file://artifacts/siyaram-associates/public/images/hero.png"
+type = "image"
+title = "Financial hero background"
+
+[[generated]]
+id = "-DwjWcRuL7QyE25xgPIOg"
+uri = "file://artifacts/siyaram-associates/public/images/about.png"
+type = "image"
+title = "Professional financial meeting"
+
+[[generated]]
+id = "YOD4ciClagoIO9jBZsFc6"
+uri = "file://artifacts/siyaram-associates/public/images/home-loan.png"
+type = "image"
+title = "Home loan house key"
+
+[[generated]]
+id = "NkHuYCaVb5DGSGt-moXDa"
+uri = "file://artifacts/siyaram-associates/public/images/personal-loan.png"
+type = "image"
+title = "Personal loan wallet"
+
+[[generated]]
+id = "L4PMSVneFmPr32Dzl48_Q"
+uri = "file://artifacts/siyaram-associates/public/images/business-loan.png"
+type = "image"
+title = "Business loan growth chart"
+
+[[generated]]
+id = "ugBdy3KzL251i_mSt1CZV"
+uri = "file://artifacts/siyaram-associates/public/images/car-loan.png"
+type = "image"
+title = "Car loan keys steering"
+
+[[generated]]
+id = "BXARx_wJZ2jvIW-SPzdlC"
+uri = "file://artifacts/siyaram-associates/public/images/property-loan.png"
+type = "image"
+title = "Loan against property building"
+
+[[generated]]
+id = "D760iP-380d-ZWS-r2kl2"
+uri = "file://artifacts/siyaram-associates/public/images/insurance.png"
+type = "image"
+title = "Insurance family umbrella"
+
+[[outputs]]
+id = "nPjEHkT-su8ieoGVPB4C2"
+uri = "file://siyaram-associates.tar.gz"
+type = "unspecified"
+title = "Siyaram Associates - Project Source Code"
+
+[[outputs]]
+id = "R8DYPCRJVZUpxurxFNiv_"
+uri = "file://siyaram-associates.zip"
+type = "unspecified"
+title = "Siyaram Associates - Updated Source Code (with new contact info)"
+
+[[outputs]]
+id = "VhzDc1fi6NMs8d6NQt472"
+uri = "file://siyaram-full-project.tar.gz"
+type = "unspecified"
+title = "Siyaram Associates — Full Project (source code)"
